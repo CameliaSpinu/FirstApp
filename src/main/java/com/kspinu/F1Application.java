@@ -13,5 +13,4 @@ public class F1Application {
         System.out.println("Welcome Camelia!");
         System.out.println("======================================");
     }
-
 }
